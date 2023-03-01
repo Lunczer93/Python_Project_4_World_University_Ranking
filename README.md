@@ -42,6 +42,6 @@ Taiwan, South Korea and Jordan. The worst University is University of Oradea
 29. According to Shanghai Ranking, Harvard University	was the best University in the world, while Massachusetts Institute of Technology (MIT)	 was the best University with respect to the world ranking in 2018.
 30. According to Shanghai Ranking, University of Cambridge	was the best University in the world, while University of Cambridge	was the best University with respect to the world ranking in 2018 in United Kingdom.
 31. According to Shanghai Ranking, Karolinska Institute		was the best University in the world, while Lund University	was the best University with respect to the world ranking in 2018 in Sweden.
-32. 31. According to Shanghai Ranking, University of Warsaw			was the best University in the world, while University of Warsaw		was the best University with respect to the world ranking in 2018 in Poland.
+32. According to Shanghai Ranking, University of Warsaw			was the best University in the world, while University of Warsaw		was the best University with respect to the world ranking in 2018 in Poland.
 
 
